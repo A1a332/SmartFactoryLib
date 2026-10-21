@@ -1,0 +1,27 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0.0",
+    "SemVersion": "1.0.0",
+    "GameVersion": ">=502094",
+    "FriendlyName": "Smart Factory Lib",
+    "Description": "Dedicated dependency library for Smart Factory. Holds shared content/assets (alien-tech markers, scatter items, etc.) so the main mod does not depend on third-party libraries such as RecipeCopier's MarcioCommonLibs. Content-only scaffold; assets are added here over time.",
+    "Category": "Modding",
+    "CreatedBy": "Monsue",
+    "CreatedByURL": "",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+    "CanContainContent": true,
+    "IsBetaVersion": false,
+    "IsExperimentalVersion": false,
+    "Installed": false,
+    "Plugins": [
+        {
+            "Name": "SML",
+            "Enabled": true,
+            "SemVersion": "^3.12.0"
+        }
+    ],
+    "LocalizationTargets": []
+}

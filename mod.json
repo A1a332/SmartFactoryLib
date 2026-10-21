@@ -1,0 +1,14 @@
+{
+  "name": "SmartFactoryLib",
+  "mod_reference": "SmartFactoryLib",
+  "version": "1.0.0",
+  "gameVersion": ">=502094",
+  "friendlyName": "Smart Factory Lib",
+  "description": "Dedicated dependency library for Smart Factory. Holds shared content/assets (alien-tech markers, scatter items, etc.) so the main mod does not depend on third-party libraries such as RecipeCopier's MarcioCommonLibs. Content-only scaffold; assets are added here over time.",
+  "authors": [
+    "Monsue"
+  ],
+  "dependencies": {
+    "SML": "^3.12.0"
+  }
+}
